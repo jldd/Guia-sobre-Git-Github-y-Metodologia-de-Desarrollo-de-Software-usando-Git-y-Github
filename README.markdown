@@ -29,7 +29,7 @@ Github no sólo ofrece alojamiento del código si no muchas más posibilidades a
 
 Qué es una metodología de desarrollo de software en el mundo de la programación y de qué forma vamos a aplicarla?
 --------
-Citaré a wikipedia aquí: Metodología de desarrollo de software en ingeniería de software es un marco de trabajo usado para estructurar, planificar y controlar el proceso de desarrollo en sistemas de información.
+Citaré a [wikipedia](https://es.wikipedia.org/) aquí: Metodología de desarrollo de software en ingeniería de software es un marco de trabajo usado para estructurar, planificar y controlar el proceso de desarrollo en sistemas de información.
 
 Básicamente el punto aquí es controlar el proceso de desarrollo para que sea ordenado y de esta forma lo más **productivo** posible.
 
